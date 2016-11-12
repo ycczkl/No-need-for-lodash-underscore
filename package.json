@@ -1,0 +1,15 @@
+{
+  "name": "No-need-for-lodash-underscore",
+  "version": "0.0.1",
+  "description": "Use native js function instead of lodash/underscore libary",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:ycczkl/No-need-for-lodash-underscore.git",
+    "type": "git"
+  },
+  "author": "ycczkl",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.16.6"
+  }
+}
